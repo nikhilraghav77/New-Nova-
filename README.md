@@ -1,4 +1,4 @@
-# New-Nova-
+# Neo-Nova-
 Neo Nova – AI-Powered Student Chatbot
 
 Neo Nova is an AI-powered chatbot designed to assist students in their academic journey. It provides personalised support, answers academic queries, and offers an interactive learning experience using natural language processing and machine learning.

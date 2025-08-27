@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const API_KEY_GEMINI = "AIzaSyDKksRyt1_MJAs0jwXArKJ7zGne4by1CEM";
-  const API_KEY_GOOGLE = "AIzaSyAPABu5Ajak3W9LzsIUuQcvasmMEMmeuJE";
+  const API_KEY_GEMINI = "API Key is hided";
+  const API_KEY_GOOGLE = "API Key is hided";
   const CX = "87c7fcf5de159496f";
 
   const inputField = document.getElementById("user-input");
@@ -115,3 +115,4 @@ document.addEventListener("DOMContentLoaded", () => {
       .replace(/\[([^\]]+)]\(([^)]+)\)/gim, '<a href="$2" target="_blank">$1</a>');
   }
 });
+
